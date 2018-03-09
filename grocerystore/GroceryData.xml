@@ -1,0 +1,103 @@
+<catalogue>
+	<category id="1">
+		<items>
+			<item>
+				<id>1</id>
+				<name>LUX bath soap</name>
+				<uom>gm</uom> <!-- Unit Of Measure -->
+				<unitSize>10</unitSize>
+				<unitPrice>
+					<amount>12.00</amount>
+					<currency>INR</currency> <!-- Currency alpha3code -->
+				</unitPrice>
+				<quantity>
+				<stock>100</stock>
+				<measure>unit</measure> 
+				</quantity>
+			</item>
+
+			<item>
+				<id>2</id>
+				<name>Dove bath soap</name>
+				<uom>gm</uom> <!-- Unit Of Measure -->
+				<unitSize>10</unitSize>
+				<unitPrice>
+					<amount>12.00</amount>
+					<currency>INR</currency> <!-- Currency alpha3code -->
+				</unitPrice>
+				<quantity>
+				<stock>100</stock>
+				<measure>unit</measure> 
+				</quantity>
+			</item>
+		</items>
+	</category>
+	<category id="2">
+		<items>
+			<item>
+				<id>1</id>
+				<name>Litchi</name>
+				<uom>kg</uom> <!-- Unit Of Measure -->
+				<unitSize>1</unitSize>
+				<unitPrice>
+					<amount>120.00</amount>
+					<currency>INR</currency> <!-- Currency alpha3code -->
+				</unitPrice>
+				<quantity>
+				<stock>100</stock>
+				<measure>unit</measure> 
+				</quantity>
+			</item>
+
+			<item>
+				<id>2</id>
+				<name>Grapes</name>
+				<uom>kg</uom> <!-- Unit Of Measure -->
+				<unitSize>1</unitSize>
+				<unitPrice>
+					<amount>80.00</amount>
+					<currency>INR</currency> <!-- Currency alpha3code -->
+				</unitPrice>
+				<quantity>
+				<stock>100</stock>
+				<measure>unit</measure> 
+				</quantity>
+			</item>
+		</items>
+	</category>
+	<category id="3">
+		<items>
+			<item>
+				<id>1</id>
+				<name>Monster Drink</name>
+				<uom>gm</uom> <!-- Unit Of Measure -->
+				<unitSize>10</unitSize>
+				<unitPrice>
+					<amount>130.00</amount>
+					<currency>INR</currency> <!-- Currency alpha3code -->
+				</unitPrice>
+				<quantity>
+				<stock>100</stock>
+				<measure>unit</measure> 
+				</quantity>
+			</item>
+
+			<item>
+				<id>2</id>
+				<name>Cold Cofee</name>
+				<uom>gm</uom> <!-- Unit Of Measure -->
+				<unitSize>10</unitSize>
+				<unitPrice>
+					<amount>80.00</amount>
+					<currency>INR</currency> <!-- Currency alpha3code -->
+				</unitPrice>
+				<quantity>
+				<stock>100</stock>
+				<measure>unit</measure> 
+				</quantity>
+			</item>
+		</items>
+	</category>
+	
+</catalogue>
+
