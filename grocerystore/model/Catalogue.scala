@@ -14,9 +14,9 @@ case class Catalogue(items: List[Item])  extends Serializable {
      items
   }
 
-  def currentCount(): Int ={
-    items.size
-  }
+//  def currentCount(): Int ={
+//    items.size
+//  }
 }
 
 

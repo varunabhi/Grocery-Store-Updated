@@ -1,5 +1,6 @@
 package com.varun.grocerystore.model
 
-trait User {
-   val id:Int
+trait Filter {
+
+  def addDiscount()
 }

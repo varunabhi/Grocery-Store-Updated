@@ -1,8 +1,6 @@
 package com.varun.grocerystore.model
 
-
 case class Cart(cart:Map[(Item,Double),Double]) extends Serializable {
-
 
     def this(){
       this(Map())
